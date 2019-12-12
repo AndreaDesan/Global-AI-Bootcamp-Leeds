@@ -1,2 +1,2 @@
 # Global-AI-Bootcamp-Leeds
-Machine Leaning presentation and Jupyter Notebook for the Global AI Bootcamp Leeds
+This repository contains the presentation given by CentDS on Machine Learning theory at the Global AI Bootcamp Leeds 2019, together with the Jupyter Notebook for the Machine Learning Workshop offered at the same event.
